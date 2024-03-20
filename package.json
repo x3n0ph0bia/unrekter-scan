@@ -1,0 +1,30 @@
+{
+  "name": "unrekter-scan",
+  "version": "1.0.0",
+  "description": "Detect vulnerabilities and risks with Unrekter Scan, a security-focused package for scanning blockchain transactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x3n0ph0bia/unrekter-scan"
+  },
+  "author": "x3n0ph0bia",
+  "license": "MIT",
+  "dependencies": {
+    "unrekter-scan": "1.0.0",
+    "unrekt-my-bags": "1.0.0",
+    "ejs": "1.0.0",
+    "helmet": "1.0.0",
+    "ethers": "1.0.0",
+    "web3": "1.0.0",
+    "sinon": "1.0.0",
+    "react-dom": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "moment": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "react-redux": "1.0.0",
+    "passport": "1.0.0"
+  }
+}
